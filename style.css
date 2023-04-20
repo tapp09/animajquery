@@ -1,0 +1,14 @@
+.fora {
+    height: 800px;
+    width: 800px;
+    background-color: tomato;
+    position: relative;
+}
+.menu {
+    position: absolute;
+    width: 100px;
+    height: 200px;
+    background-color: silver;
+    right: 50px;
+    top: 0;
+}
