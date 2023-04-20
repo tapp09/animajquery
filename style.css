@@ -1,6 +1,6 @@
 .fora {
-    height: 800px;
-    width: 800px;
+    height: 600px;
+    width: 600px;
     background-color: tomato;
     position: relative;
 }
@@ -11,4 +11,14 @@
     background-color: silver;
     right: 50px;
     top: 0;
+    display: none;
+}
+.bolinha {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: yellow;
+    position: absolute;
+    left: -10px;
+    top: -10px;
 }
